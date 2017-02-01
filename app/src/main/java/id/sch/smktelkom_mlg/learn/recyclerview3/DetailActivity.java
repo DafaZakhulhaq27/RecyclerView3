@@ -14,6 +14,7 @@ import id.sch.smktelkom_mlg.learn.recyclerview3.model.Hotel;
 
 public class DetailActivity extends AppCompatActivity {
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
