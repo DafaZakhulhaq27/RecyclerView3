@@ -8,6 +8,7 @@
     android:fitsSystemWindows="true"
     tools:context="id.sch.smktelkom_mlg.learn.recyclerview3.DetailActivity">
 
+
     <android.support.design.widget.AppBarLayout
         android:id="@+id/app_bar"
         android:layout_width="match_parent"
