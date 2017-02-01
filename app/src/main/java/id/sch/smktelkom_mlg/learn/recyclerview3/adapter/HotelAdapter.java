@@ -22,6 +22,7 @@ import id.sch.smktelkom_mlg.learn.recyclerview3.model.Hotel;
 
 public class HotelAdapter extends RecyclerView.Adapter<HotelAdapter.ViewHolder> {
 
+
     ArrayList<Hotel> hotellist;
     IHotelAdapter mIHotelAdapter;
 
